@@ -13,6 +13,5 @@ You may create web apps with high-quality user interfaces using its component-ba
 
 
 ![image](https://user-images.githubusercontent.com/46970931/221451777-18850cf9-aacf-4759-b6a0-8f53f43d1771.png)
-![image](https://user-images.githubusercontent.com/46970931/221451964-e2499f73-d3b9-4bf5-97e8-9a166731adae.png)
 
 
